@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AuthBiometricApp</string>
+    <!-- Replace with your client id from google-services.json (default_web_client_id) -->
+    <string name="default_web_client_id">REPLACE_WITH_YOUR_CLIENT_ID</string>
+    <string name="biometric_title">Unlock with biometrics</string>
+    <string name="biometric_subtitle">Use your fingerprint or face</string>
+    <string name="biometric_negative">Use password</string>
+</resources>
